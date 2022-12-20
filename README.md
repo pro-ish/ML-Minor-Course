@@ -1,4 +1,4 @@
-# ML-Minor-Course Assignments
+# SPIT ML-Minor-Course Assignments
 Ishani Prabhudesai
 M1910056
 SPCE, Mumbai.
